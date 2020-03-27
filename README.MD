@@ -15,6 +15,8 @@
 7. 限制移动消息频率
 8. 距离检测 
 9. 协议的时间校验
+10. 行为树
+11. 
 
 
 算法
@@ -24,3 +26,8 @@ https://www.cnblogs.com/skywang12345/category/508186.html
 
 网络
 https://blog.csdn.net/wenqian1991/article/details/40110703
+
+MMO
+https://blog.csdn.net/janker5/article/details/83151306
+https://gameinstitute.qq.com/community/detail/101629
+https://zhuanlan.zhihu.com/p/38605352
