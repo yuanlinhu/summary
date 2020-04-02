@@ -31,3 +31,8 @@ MMO
 https://blog.csdn.net/janker5/article/details/83151306
 https://gameinstitute.qq.com/community/detail/101629
 https://zhuanlan.zhihu.com/p/38605352
+
+向量运算  扇形 矩形
+https://wuzhiwei.net/vector_in_games/
+https://www.cnblogs.com/miloyip/archive/2013/04/19/3029852.html
+
