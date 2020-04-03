@@ -16,7 +16,7 @@
 8. 距离检测 
 9. 协议的时间校验
 10. 行为树
-11. 
+11. DB 优化 方案
 
 
 算法
@@ -35,4 +35,9 @@ https://zhuanlan.zhihu.com/p/38605352
 向量运算  扇形 矩形
 https://wuzhiwei.net/vector_in_games/
 https://www.cnblogs.com/miloyip/archive/2013/04/19/3029852.html
+
+数据库优化
+https://www.zhihu.com/question/36431635
+https://blog.csdn.net/baidu_37107022/article/details/77460464
+https://my.oschina.net/junn/blog/113153
 
