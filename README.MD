@@ -41,3 +41,7 @@ https://www.zhihu.com/question/36431635
 https://blog.csdn.net/baidu_37107022/article/details/77460464
 https://my.oschina.net/junn/blog/113153
 
+
+c++ 对象模型
+https://www.cnblogs.com/qg-whz/p/4909359.html
+
