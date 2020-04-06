@@ -45,6 +45,8 @@ Project（弹道飞行中）、
 OnHit（击中）、
 Finish（技能结束）。
 
+OpenAI
+https://github.com/openai/neural-mmo
 
 算法
 https://blog.csdn.net/mwj327720862/article/details/80498455
