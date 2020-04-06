@@ -28,7 +28,7 @@
 14. AOE
 15. buff
 16. 九宫格同步
-17. A_star
+17. A_star， floyd 平滑
 18. NavMesh
 19. 搜索敌人方式， 扇形，圆形，矩形
 
