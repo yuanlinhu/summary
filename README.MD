@@ -45,6 +45,12 @@ Project（弹道飞行中）、
 OnHit（击中）、
 Finish（技能结束）。
 
+服务器框架
+https://gameinstitute.qq.com/community/detail/101763
+https://zhuanlan.zhihu.com/p/84589179
+
+
+
 OpenAI
 https://github.com/openai/neural-mmo
 
