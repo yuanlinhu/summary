@@ -34,6 +34,12 @@
 
 
 
+1. 左值 右值
+2. std::move
+3. weak_ptr, auto_ptr, shaded_ptr 优缺点
+4. map, unordered map 优缺点
+5. 网络断开 标志位
+
 每一个技能都是由不同的技能阶段组合而成的，
 比如以下技能阶段：
 Start（技能开始）、
