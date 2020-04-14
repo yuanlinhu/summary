@@ -45,9 +45,13 @@ Project（弹道飞行中）、
 OnHit（击中）、
 Finish（技能结束）。
 
-服务器框架
+
+
+
+
+服务器框架  架构演化
 https://gameinstitute.qq.com/community/detail/101763
-https://zhuanlan.zhihu.com/p/84589179
+
 
 
 
@@ -59,7 +63,7 @@ https://blog.csdn.net/mwj327720862/article/details/80498455
 https://blog.csdn.net/xu__jun/article/details/78331111
 https://www.cnblogs.com/skywang12345/category/508186.html
 
-网络
+网络   TCP状态转换图详解
 https://blog.csdn.net/wenqian1991/article/details/40110703
 
 MMO
